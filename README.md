@@ -1,2 +1,1 @@
-# lms-smk-nasal
-Learning Management System
+# LMS SMK NASIONAL AL-ULUM
